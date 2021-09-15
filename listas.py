@@ -16,3 +16,4 @@ frutas.pop()
 
 for fruta in (frutas):
   print(fruta)
+  
