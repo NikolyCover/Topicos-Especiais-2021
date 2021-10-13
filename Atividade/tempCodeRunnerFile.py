@@ -1,1 +1,1 @@
-sum / len(numbers)
+'armazenamento usado': line.split(' ')[1]
