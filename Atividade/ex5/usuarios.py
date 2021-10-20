@@ -42,8 +42,6 @@ for user in usuarios:
     user['% do uso'] = str(percent(values[i], totalOf(values))) + ' %'
     i += 1
 
-print(usuarios)
-
 usuarios_df = pd.DataFrame(usuarios)
 
 with open('relatorio.txt', 'w') as relatorio:
