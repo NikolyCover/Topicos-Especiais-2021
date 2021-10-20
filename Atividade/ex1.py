@@ -24,4 +24,5 @@ jumps.append(input('Quinto Salto: '))
 print('\nResultado final:')
 print('Atleta: ' + name)
 print('Saltos: {} - {} - {} - {} - {}'.format(jumps[0], jumps[1], jumps[2], jumps[3], jumps[4]))
+
 print('{} m'.format(media(jumps)))

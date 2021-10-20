@@ -17,7 +17,7 @@ def totalOf(list):
 
     return total
 
-with open("C:\Users\Nikoly\Documents\Produtividade\IFPR\IFPR2021\TopicosEspeciais\Python\Atividade\ex5\users.txt", "r") as archive:
+with open("users.txt", "r") as archive:
     content = archive.readlines()
 
 usuarios = []
