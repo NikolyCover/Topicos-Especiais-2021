@@ -1,1 +1,1 @@
-'armazenamento usado': line.split(' ')[1]
+values
